@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Terminator",
+      "genre": "Sci-fi",
+      "image": "https://townsquare.media/site/295/files/2019/10/Terminator-Orion.jpg",
+      "releaseYear": "1984"
+    },
+    {
+      "id": 2,
+      "name": "1922",
+      "genre": "Horror/Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTFmYmJkM2YtYzFjNS00NGI2LThiOWMtNGVhZDZiOGI0NDBhXkEyXkFqcGdeQXVyNjU1OTMzNDU@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+      "releaseYear": "2017"
+    },
+    {
+      "id": 3,
+      "name": "Andhadhun",
+      "genre": "Mystry/Thriller",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Andhadhun_poster.jpg",
+      "releaseYear": "2018"
+    },
+    {
+      "id": 4,
+      "name": "The Vow",
+      "genre": "Romance/Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE1OTU5MjU0N15BMl5BanBnXkFtZTcwMzI3OTU5Ng@@._V1_.jpg",
+      "releaseYear": "2012"
+    },
+    {
+      "name": "Titanic",
+      "genre": "Romance",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+      "releaseYear": "1997",
+      "id": 5
+    },
+    {
+      "name": "Avengers: End Game",
+      "genre": "Action/ Sci-Fi",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+      "releaseYear": "2019",
+      "id": 6
+    },
+    {
+      "name": "Scoob!",
+      "genre": "Animation/Family",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/Scoob_poster.png",
+      "releaseYear": "2020",
+      "id": 7
+    },
+    {
+      "name": "Kabir Singh",
+      "genre": "Romance/Drama",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kabir_Singh.jpg/220px-Kabir_Singh.jpg",
+      "releaseYear": "2019",
+      "id": 8
+    },
+    {
+      "name": "Chhichhore",
+      "genre": "Comedy/Bollywood",
+      "image": "https://flxt.tmsimg.com/assets/p16954466_v_v8_aa.jpg",
+      "releaseYear": "2019",
+      "id": 9
+    },
+    {
+      "name": "The Invisible Man",
+      "genre": "Horror/Thriller",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3a/The_Invisible_Man_%282020_film%29_-_release_poster.jpg",
+      "releaseYear": "2020",
+      "id": 10
+    },
+    {
+      "name": "Inception",
+      "genre": "Action/Sci-fi",
+      "image": "https://img.cinemablend.com/quill/e/b/2/a/4/5/eb2a45f29e17a8d5e40b097b0eff18ebcd86b100.jpg",
+      "releaseYear": "2010",
+      "id": 11
+    },
+    {
+      "name": "MS-Dhoni(The Untold Story)",
+      "genre": "Sport/Bollywood",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjAzZjZiMmQtMDZmOC00NjVmLTkyNTItOGI2Mzg4NTBhZTA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "releaseYear": "2016",
+      "id": 12
+    }
+  ]
+}
